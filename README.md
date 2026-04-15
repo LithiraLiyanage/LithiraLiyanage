@@ -31,7 +31,7 @@ Welcome to My GitHub Profile!
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/LithiraLiyanage/LithiraLiyanage/main/snake-dark.svg)
+![snake gif](https://github.com/LithiraLiyanage/LithiraLiyanage/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
