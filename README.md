@@ -29,6 +29,18 @@ Welcome to My GitHub Profile!
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/LithiraLiyanage/LithiraLiyanage/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=LithiraLiyanage&color=blue)
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](PUT_LINK)
