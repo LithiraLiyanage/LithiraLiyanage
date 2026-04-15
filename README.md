@@ -1,4 +1,4 @@
-![Banner](PASTE_YOUR_BANNER_LINK_HERE)
+![Banner](https://raw.githubusercontent.com/LithiraLiyanage/LithiraLiyanage/main/banner.png)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Lithira+Liyanage;Software+Engineering+Student;Web+Developer;Java+%7C+Spring+Boot+Learner)
 
