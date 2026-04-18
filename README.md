@@ -43,5 +43,5 @@ Welcome to My GitHub Profile!
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](PUT_LINK)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin](https://www.linkedin.com/in/lithira-liyanage-667b99403?utm_source=share_via&utm_content=profile&utm_medium=member_ios )](PUT_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:PUT_EMAIL)
