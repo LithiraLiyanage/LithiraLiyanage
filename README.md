@@ -23,9 +23,7 @@ Welcome to My GitHub Profile!
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=700&color=8A2BE2&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+GitHub+Grade;%E2%AD%90+B%2B+Advanced+Developer" />
-
-<br/>
+<h2>🏆 GitHub Grade</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=B%2B&fontSize=90&color=0:0D1117,50:8A2BE2,100:00C9A7&stroke=8A2BE2&strokeWidth=2&fontColor=FFFFFF&animation=twinkling&desc=Advanced%20Developer%20%7C%20GitHub%20Performance&descSize=18&descAlignY=78" />
 
