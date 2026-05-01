@@ -23,12 +23,14 @@ Welcome to My GitHub Profile!
 
 <h2 align="center">🏆 GitHub Grade</h2>
 
+<h1 align="center" style="color:#8A2BE2; font-size:60px;">B+</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/B%2B-Advanced%20Developer-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="60"/>
+  <img src="https://img.shields.io/badge/Advanced%20Developer-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-GitHub%20Performance-111827?style=for-the-badge&color=111827&logo=github&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub%20Performance-111827?style=for-the-badge&logo=github&logoColor=white" height="30"/>
 </p>
 
 <br/>
