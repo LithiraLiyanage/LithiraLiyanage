@@ -24,7 +24,11 @@ Welcome to My GitHub Profile!
 <h3 align="center">🏆 GitHub Grade</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Grade-B%20%7C%20Intermediate%20Developer-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitHub%20Level-B%2B%20%7C%20Advanced%20Developer-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-Improving%20Rapidly-00C9A7?style=flat-square&labelColor=0D1117" />
 </p>
 
 <br/>
