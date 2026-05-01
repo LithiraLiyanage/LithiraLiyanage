@@ -22,6 +22,10 @@ Welcome to My GitHub Profile!
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Grade-B-blueviolet?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=tokyonight" />
 </p>
 
