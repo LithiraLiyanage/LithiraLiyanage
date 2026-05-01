@@ -21,14 +21,14 @@ Welcome to My GitHub Profile!
 
 ## 📊 GitHub Stats
 
-<h3 align="center">🏆 GitHub Grade</h3>
+<h2 align="center">🏆 GitHub Grade</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Level-B%2B%20%7C%20Advanced%20Developer-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/B%2B-Advanced%20Developer-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="60"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress-Improving%20Rapidly-00C9A7?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LEVEL-GitHub%20Performance-111827?style=for-the-badge&color=111827&logo=github&logoColor=white" height="35"/>
 </p>
 
 <br/>
