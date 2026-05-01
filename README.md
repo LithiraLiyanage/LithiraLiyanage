@@ -1,6 +1,6 @@
 Welcome to My GitHub Profile!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Lithira+Liyanage;Software+Engineering+Student;Web+Developer;Java+%7C+Spring+Boot+Python+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Lithira+Liyanage;Information+Technology+Student;Web+Developer;Java+%7C+Spring+Boot+Python+Learner)
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to My GitHub Profile!
 * 🎓 Information Technology Student
 * 🌱 Learning **MERN | Java | Python | Spring Boot**
 * 🔭 Working on university projects | Individual Projects
-* 🎯 Goal: Become a Full-Stack Developer / Engineer
+* 🎯 Goal: Become a Full-Stack Developer | AI Engineer
 
 ---
 
