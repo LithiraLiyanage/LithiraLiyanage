@@ -18,12 +18,9 @@ Welcome to My GitHub Profile!
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,mysql,git,github,vscode)
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<h2>🏆 GitHub Grade</h2>
+<h2>🏆 GitHub Stats</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=B%2B&fontSize=90&color=0:0D1117,50:8A2BE2,100:00C9A7&stroke=8A2BE2&strokeWidth=2&fontColor=FFFFFF&animation=twinkling&desc=Advanced%20Developer%20%7C%20GitHub%20Performance&descSize=18&descAlignY=78" />
 
