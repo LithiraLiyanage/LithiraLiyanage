@@ -7,9 +7,9 @@ Welcome to My GitHub Profile!
 ## 👨‍💻 About Me
 
 * 🎓 Information Technology Student
-* 🌱 Learning **Java | Spring Boot | MERN**
-* 🔭 Working on university projects
-* 🎯 Goal: Become a Full-Stack Developer
+* 🌱 Learning **MERN | Java | Python | Spring Boot**
+* 🔭 Working on university projects | Individual Projects
+* 🎯 Goal: Become a Full-Stack Developer / Engineer
 
 ---
 
