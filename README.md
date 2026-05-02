@@ -5,7 +5,10 @@ Welcome to My GitHub Profile!
 ---
 
 ## 👨‍💻 About Me
-## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="35"/> About Me
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&width=435&lines=IT+Undergraduate;Full+Stack+Developer+in+Progress;Future+AI+Engineer" />
+</p>
 
 <ul>
   <li>🎓 Information Technology Undergraduate at SLIIT</li>
