@@ -6,10 +6,6 @@ Welcome to My GitHub Profile!
 
 ## 👨‍💻 About Me
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&width=435&lines=IT+Undergraduate;Full+Stack+Developer+in+Progress;Future+AI+Engineer" />
-</p>
-
 <ul>
   <li>🎓 Information Technology Undergraduate at SLIIT</li>
   <li>🌱 Learning <b>MERN | Java | Python | Spring Boot</b></li>
