@@ -6,10 +6,17 @@ Welcome to My GitHub Profile!
 
 ## 👨‍💻 About Me
 
-* 🎓 Information Technology Student
-* 🌱 Learning **MERN | Java | Python | Spring Boot**
-* 🔭 Working on university projects | Individual Projects
-* 🎯 Goal: Become a Full-Stack Developer | AI Engineer
+<div align="center">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
+<ul>
+  <li>🎓 Information Technology Undergraduate at SLIIT</li>
+  <li>🌱 Learning <b>MERN | Java | Python | Spring Boot</b></li>
+  <li>🔭 Working on University Projects & Personal Projects</li>
+  <li>🎯 Goal: Become a <b>Full-Stack Developer | AI Engineer</b></li>
+  <li>💡 Passionate about building scalable and user-friendly applications</li>
+</ul>
 
 ---
 
