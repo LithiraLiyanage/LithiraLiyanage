@@ -14,7 +14,8 @@ Welcome to My GitHub Profile!
 - 🌱 Learning MERN | Java | Python | Spring Boot  
 - 🔭 Working on University & Personal Projects  
 - 🎯 Goal: Become a Full-Stack Developer | AI Engineer  
-- 💡 Passionate about building scalable and user-friendly applications  
+- 💡 Passionate about building scalable and user-friendly applications
+- 📫 How to reach me lithiraliyanage666@gmail.com  
 
     </td>
 
