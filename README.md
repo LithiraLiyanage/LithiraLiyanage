@@ -10,13 +10,11 @@ Welcome to My GitHub Profile!
   <tr>
     <td>
 
-<ul>
-  <li>🎓 Information Technology Undergraduate at SLIIT</li>
-  <li>🌱 Learning <b>MERN | Java | Python | Spring Boot</b></li>
-  <li>🔭 Working on University Projects & Personal Projects</li>
-  <li>🎯 Goal: Become a <b>Full-Stack Developer | AI Engineer</b></li>
-  <li>💡 Passionate about building scalable and user-friendly applications</li>
-</ul>
+- 🎓 Information Technology Undergraduate at SLIIT  
+- 🌱 Learning MERN | Java | Python | Spring Boot  
+- 🔭 Working on University & Personal Projects  
+- 🎯 Goal: Become a Full-Stack Developer | AI Engineer  
+- 💡 Passionate about building scalable and user-friendly applications  
 
     </td>
 
