@@ -5,10 +5,7 @@ Welcome to My GitHub Profile!
 ---
 
 ## 👨‍💻 About Me
-
-<div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="35"/> About Me
 
 <ul>
   <li>🎓 Information Technology Undergraduate at SLIIT</li>
