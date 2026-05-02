@@ -6,6 +6,10 @@ Welcome to My GitHub Profile!
 
 ## 👨‍💻 About Me
 
+<table>
+  <tr>
+    <td>
+
 <ul>
   <li>🎓 Information Technology Undergraduate at SLIIT</li>
   <li>🌱 Learning <b>MERN | Java | Python | Spring Boot</b></li>
@@ -13,6 +17,14 @@ Welcome to My GitHub Profile!
   <li>🎯 Goal: Become a <b>Full-Stack Developer | AI Engineer</b></li>
   <li>💡 Passionate about building scalable and user-friendly applications</li>
 </ul>
+
+    </td>
+
+    <td>
+      <img src="Coding.gif" width="350" />
+    </td>
+  </tr>
+</table>
 
 ---
 
