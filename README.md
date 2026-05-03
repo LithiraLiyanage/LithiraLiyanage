@@ -41,7 +41,7 @@ Welcome to My GitHub Profile!
 <br/>
 
 <img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/STATUS-IMPROVING%20FAST-00C9A7?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-IMPROVING%20FAST-2DA44E?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
