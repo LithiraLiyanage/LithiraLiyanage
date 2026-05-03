@@ -107,6 +107,8 @@ Welcome to My GitHub Profile!
 
 ---
 
+## 🏅 GitHub Achievements
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
