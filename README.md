@@ -81,3 +81,15 @@ Welcome to My GitHub Profile!
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 🚀 My GitHub Dashboard
+
+![Stats](https://github-readme-stats.vercel.app/api?LithiraLiyanage=LithiraLiyanage&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?LithiraLiyanage=LithiraLiyanage&theme=tokyo-night)
+
+---
