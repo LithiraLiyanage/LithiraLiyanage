@@ -48,18 +48,18 @@ Welcome to My GitHub Profile!
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=blue_green" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=blue_green" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=blue_green" />
 </p>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=tokyonight" height="180" /><br/>
-  <img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=blue_green" height="180" /><br/>
+  <img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=blue_green" height="180" />
 </div>
 
 ---
