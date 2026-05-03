@@ -36,7 +36,7 @@ Welcome to My GitHub Profile!
 
 <h2>🏆 GitHub Stats</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=B%2B&fontSize=90&color=0:0D1117,50:8A2BE2,100:00C9A7&stroke=8A2BE2&strokeWidth=2&fontColor=FFFFFF&animation=twinkling&desc=Advanced%20Developer%20%7C%20GitHub%20Performance&descSize=18&descAlignY=78" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=B%2B&fontSize=90&color=0:0D1117,50:0969DA,100:2DA44E&stroke=0969DA&strokeWidth=2&fontColor=FFFFFF&animation=twinkling&desc=Advanced%20Developer%20%7C%20GitHub%20Performance&descSize=18&descAlignY=78" />
 
 <br/>
 
