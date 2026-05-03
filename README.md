@@ -4,7 +4,7 @@ Welcome to My GitHub Profile!
 
 ---
 
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 
 <table>
   <tr>
