@@ -77,6 +77,49 @@ Welcome to My GitHub Profile!
 
 ---
 
+## 🚀 Featured Projects
+
+### 🚗 Vehicle Management System (MERN Stack)
+📅 Aug 2025 – Nov 2025  
+🔗 https://github.com/LithiraLiyanage/Vehicle-Management-System
+
+- Built a full-stack vehicle management platform using MERN stack  
+- Developed RESTful APIs with role-based access control (Admin/User)  
+- Integrated geospatial tracking with Leaflet for real-time mapping  
+
+---
+
+### 🎓 UniSync Smart Campus Assistant (MERN + Power BI)
+📅 2026  
+🔗 https://github.com/LithiraLiyanage/UniSync-Project
+
+- Designed a data-driven campus management system with REST APIs  
+- Built analytics dashboards for academic and operational insights  
+- Optimized database schema for scalability and performance  
+- Integrated Power BI for advanced data visualization  
+
+---
+
+### 🧘 WellnessBuddy – Android App (Kotlin)
+📅 2025  
+🔗 https://github.com/LithiraLiyanage/Wellness-Buddy
+
+- Developed a habit tracking Android application using Kotlin  
+- Implemented reminders and local storage for offline usage  
+- Focused on clean UI/UX design and smooth performance  
+
+---
+
+### 🏫 Smart Campus Operations Hub (Spring Boot)
+📅 2026  
+🔗 https://github.com/LithiraLiyanage/Smart-Campus-Operations-Hub
+
+- Built backend system for campus facility booking & maintenance  
+- Designed secure REST APIs with role-based workflows  
+- Ensured system reliability and modular architecture
+
+---
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=LithiraLiyanage&color=blue)
