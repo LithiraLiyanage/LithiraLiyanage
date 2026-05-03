@@ -48,18 +48,17 @@ Welcome to My GitHub Profile!
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=blue_green" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=blue_green" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=blue_green" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=github_dark" />
 </p>
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=blue_green" height="180" /><br/>
-  <img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=blue_green" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=blue_green&icon_color=ffffff&title_color=ffffff&text_color=ffffff" height="180" /><br/>
+  <img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=blue_green&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" height="180" />
 </div>
 
 ---
