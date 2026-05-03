@@ -56,6 +56,8 @@ Welcome to My GitHub Profile!
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=tokyonight" />
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=LithiraLiyanage&theme=dark)
+
 ---
 
 ## 🐍 Contribution Snake
