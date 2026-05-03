@@ -71,10 +71,10 @@
 
 ---
 
-<h2 align="center">🏆 Github Ranking in Sri Lanka</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=58a6ff&label=committers.top%20rank&query=rank&url=https://raw.githubusercontent.com/EvanLi/Github-Ranking/master/Sri%20Lanka/LithiraLiyanage.json" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
