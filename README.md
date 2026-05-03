@@ -36,12 +36,34 @@ Welcome to My GitHub Profile!
 
 <h2>🏆 GitHub Stats</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=B%2B&fontSize=90&color=0:0D1117,50:0969DA,100:2DA44E&stroke=0969DA&strokeWidth=2&fontColor=FFFFFF&animation=twinkling&desc=Advanced%20Developer%20%7C%20GitHub%20Performance&descSize=18&descAlignY=78" />
+<!-- Capsule Header (Blue dominant) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=B%2B&fontSize=90&color=0:0D1117,50:0969DA,100:58A6FF&stroke=58A6FF&strokeWidth=2&fontColor=FFFFFF&animation=twinkling&desc=Advanced%20Developer%20%7C%20GitHub%20Performance&descSize=18&descAlignY=78" />
+
+<br/><br/>
+
+<!-- Badges -->
+<img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-IMPROVING%20FAST-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+
+<br/><br/>
+
+<!-- Profile Summary (NO RED – using tokyonight) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=tokyonight" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/STATUS-IMPROVING%20FAST-2DA44E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- GitHub Readme Stats (Blue + White icons) -->
+<img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=blue_green&title_color=58a6ff&text_color=58a6ff&icon_color=ffffff" height="180" />
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=blue_green&ring=58a6ff&fire=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff" height="180" />
 
 </div>
 
