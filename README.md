@@ -29,7 +29,7 @@ Welcome to My GitHub Profile!
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,Mongodb,spring,mysql,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,Mongo,spring,mysql,git,github,vscode)
 
 ---
 <div align="center">
