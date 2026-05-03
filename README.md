@@ -82,23 +82,19 @@ Welcome to My GitHub Profile!
 <p align="center">
 
 <a href="https://github.com/LithiraLiyanage/Vehicle-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Vehicle-Management-System&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Vehicle-Management-System&theme=github_dark" />
 </a>
 
 <a href="https://github.com/LithiraLiyanage/UniSync-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=UniSync-Project&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=UniSync-Project&theme=github_dark" />
 </a>
 
-</p>
-
-<p align="center">
-
 <a href="https://github.com/LithiraLiyanage/Wellness-Buddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Wellness-Buddy&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Wellness-Buddy&theme=github_dark" />
 </a>
 
 <a href="https://github.com/LithiraLiyanage/Smart-Campus-Operations-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Smart-Campus-Operations-Hub&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Smart-Campus-Operations-Hub&theme=github_dark" />
 </a>
 
 </p>
