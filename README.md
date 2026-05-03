@@ -77,39 +77,15 @@ Welcome to My GitHub Profile!
 
 ---
 
-## 🚀 Featured Projects
+## 🏅 GitHub Achievements
 
-<p align="center">
-
-<a href="https://github.com/LithiraLiyanage/Vehicle-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Vehicle-Management-System&theme=github_dark" />
-</a>
-
-<a href="https://github.com/LithiraLiyanage/UniSync-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=UniSync-Project&theme=github_dark" />
-</a>
-
-<a href="https://github.com/LithiraLiyanage/Wellness-Buddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Wellness-Buddy&theme=github_dark" />
-</a>
-
-<a href="https://github.com/LithiraLiyanage/Smart-Campus-Operations-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Smart-Campus-Operations-Hub&theme=github_dark" />
-</a>
-
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=LithiraLiyanage&color=blue)
-
----
-
-## 🏅 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
