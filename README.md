@@ -61,13 +61,11 @@
 
 <div align="center">
 
-  <!-- GitHub Stats (BLUE) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=tokyonight&icon_color=58a6ff&title_color=58a6ff&text_color=58a6ff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=tokyonight&icon_color=58a6ff&title_color=58a6ff&text_color=58a6ff" height="170"/>
 
   <br/>
 
-  <!-- Streak Stats (BLUE) -->
-  <img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff" height="180" />
+  <img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
