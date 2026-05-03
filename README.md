@@ -79,44 +79,29 @@ Welcome to My GitHub Profile!
 
 ## 🚀 Featured Projects
 
-### 🚗 Vehicle Management System (MERN Stack)
-📅 Aug 2025 – Nov 2025  
-🔗 https://github.com/LithiraLiyanage/Vehicle-Management-System
+<p align="center">
 
-- Built a full-stack vehicle management platform using MERN stack  
-- Developed RESTful APIs with role-based access control (Admin/User)  
-- Integrated geospatial tracking with Leaflet for real-time mapping  
+<!-- Card 1 -->
+<a href="https://github.com/LithiraLiyanage/Vehicle-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Vehicle-Management-System&theme=tokyonight" />
+</a>
 
----
+<!-- Card 2 -->
+<a href="https://github.com/LithiraLiyanage/UniSync-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=UniSync-Project&theme=tokyonight" />
+</a>
 
-### 🎓 UniSync Smart Campus Assistant (MERN + Power BI)
-📅 2026  
-🔗 https://github.com/LithiraLiyanage/UniSync-Project
+<!-- Card 3 -->
+<a href="https://github.com/LithiraLiyanage/Wellness-Buddy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Wellness-Buddy&theme=tokyonight" />
+</a>
 
-- Designed a data-driven campus management system with REST APIs  
-- Built analytics dashboards for academic and operational insights  
-- Optimized database schema for scalability and performance  
-- Integrated Power BI for advanced data visualization  
+<!-- Card 4 -->
+<a href="https://github.com/LithiraLiyanage/Smart-Campus-Operations-Hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Smart-Campus-Operations-Hub&theme=tokyonight" />
+</a>
 
----
-
-### 🧘 WellnessBuddy – Android App (Kotlin)
-📅 2025  
-🔗 https://github.com/LithiraLiyanage/Wellness-Buddy
-
-- Developed a habit tracking Android application using Kotlin  
-- Implemented reminders and local storage for offline usage  
-- Focused on clean UI/UX design and smooth performance  
-
----
-
-### 🏫 Smart Campus Operations Hub (Spring Boot)
-📅 2026  
-🔗 https://github.com/LithiraLiyanage/Smart-Campus-Operations-Hub
-
-- Built backend system for campus facility booking & maintenance  
-- Designed secure REST APIs with role-based workflows  
-- Ensured system reliability and modular architecture
+</p>
 
 ---
 
