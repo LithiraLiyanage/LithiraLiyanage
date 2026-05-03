@@ -71,6 +71,14 @@
 
 ---
 
+<h2 align="center">🏆 Github Ranking in Sri Lanka</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=58a6ff&label=committers.top%20rank&query=rank&url=https://raw.githubusercontent.com/EvanLi/Github-Ranking/master/Sri%20Lanka/LithiraLiyanage.json" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/LithiraLiyanage/LithiraLiyanage/blob/output/github-contribution-grid-snake-dark.svg)
