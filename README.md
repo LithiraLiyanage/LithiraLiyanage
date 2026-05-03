@@ -84,12 +84,10 @@ Welcome to My GitHub Profile!
 
 ---
 
-## 🚀 My GitHub Dashboard
+## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?LithiraLiyanage=LithiraLiyanage&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=dark)
 
-![Streak](https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?LithiraLiyanage=LithiraLiyanage&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com?user=LithiraLiyanage&theme=dark)
 
 ---
