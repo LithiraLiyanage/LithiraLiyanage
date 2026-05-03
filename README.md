@@ -1,4 +1,4 @@
-Welcome to My GitHub Profile!
+<h1 align="center">💻 Welcome to My GitHub Profile!</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58a6ff\&size=28\&center=true\&vCenter=true\&width=700\&lines=Hi+I'm+Lithira+Liyanage;Information+Technology+Student;Web+Developer;Java+%7C+Spring+Boot+Python+Learner)
 
