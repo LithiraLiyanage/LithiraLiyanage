@@ -59,8 +59,6 @@ Welcome to My GitHub Profile!
 
 ![Streak](https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🐍 Contribution Snake
