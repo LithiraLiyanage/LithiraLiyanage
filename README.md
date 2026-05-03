@@ -69,10 +69,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=tokyonight" height="170"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
