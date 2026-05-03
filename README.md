@@ -56,7 +56,10 @@ Welcome to My GitHub Profile!
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=tokyonight" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LithiraLiyanage&theme=dark)
+
+![Streak](https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight&hide_border=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -83,13 +86,5 @@ Welcome to My GitHub Profile!
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LithiraLiyanage&theme=dark)
 
 ---
