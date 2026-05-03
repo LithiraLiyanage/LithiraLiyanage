@@ -107,6 +107,10 @@ Welcome to My GitHub Profile!
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
