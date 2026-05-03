@@ -71,14 +71,6 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/LithiraLiyanage/LithiraLiyanage/blob/output/github-contribution-grid-snake-dark.svg)
