@@ -58,8 +58,15 @@ Welcome to My GitHub Profile!
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=blue_green&icon_color=ffffff&title_color=ffffff&text_color=ffffff" height="180" /><br/>
-  <img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=blue_green&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" height="180" />
+
+  <!-- GitHub Stats (BLUE) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=tokyonight&icon_color=58a6ff&title_color=58a6ff&text_color=58a6ff" height="180" />
+
+  <br/>
+
+  <!-- Streak Stats (BLUE) -->
+  <img src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff" height="180" />
+
 </div>
 
 ---
