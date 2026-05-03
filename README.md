@@ -81,22 +81,22 @@ Welcome to My GitHub Profile!
 
 <p align="center">
 
-<!-- Card 1 -->
 <a href="https://github.com/LithiraLiyanage/Vehicle-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Vehicle-Management-System&theme=tokyonight" />
 </a>
 
-<!-- Card 2 -->
 <a href="https://github.com/LithiraLiyanage/UniSync-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=UniSync-Project&theme=tokyonight" />
 </a>
 
-<!-- Card 3 -->
+</p>
+
+<p align="center">
+
 <a href="https://github.com/LithiraLiyanage/Wellness-Buddy">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Wellness-Buddy&theme=tokyonight" />
 </a>
 
-<!-- Card 4 -->
 <a href="https://github.com/LithiraLiyanage/Smart-Campus-Operations-Hub">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LithiraLiyanage&repo=Smart-Campus-Operations-Hub&theme=tokyonight" />
 </a>
