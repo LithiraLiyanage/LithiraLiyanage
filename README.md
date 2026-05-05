@@ -62,7 +62,7 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true" 
     height="170"
   />
 
