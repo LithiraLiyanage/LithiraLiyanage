@@ -51,7 +51,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=radical&title_color=0969DA&icon_color=0969DA&text_color=ffffff&bg_color=0D1117" />
 </p>
 
 <p align="center">
