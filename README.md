@@ -79,7 +79,7 @@
 
 ## 🏅 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark&title=Commit,PullRequest,Stars,Repositories,Followers,Experience,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
