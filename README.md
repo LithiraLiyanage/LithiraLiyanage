@@ -67,7 +67,7 @@
   />
 
   <img 
-    src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
+    src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=react&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
     height="170"
   />
 
