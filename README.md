@@ -51,7 +51,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=github_blue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=react" />
 </p>
 
 <p align="center">
