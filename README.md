@@ -83,12 +83,6 @@
 
 ---
 
-## 🏅 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LithiraLiyanage&theme=onedark&title=Commit,PullRequest,Stars,Repositories,Followers,Experience,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=LithiraLiyanage&color=blue)
