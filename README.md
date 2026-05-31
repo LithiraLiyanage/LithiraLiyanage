@@ -40,10 +40,6 @@
 
 <h2>🏆 GitHub Stats</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=B%2B&fontSize=90&color=0:0D1117,50:0969DA,100:2DA44E&stroke=0969DA&strokeWidth=2&fontColor=FFFFFF&animation=twinkling&desc=Advanced%20Developer%20%7C%20GitHub%20Performance&descSize=18&descAlignY=78" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 
 <img src="https://img.shields.io/badge/STATUS-IMPROVING%20FAST-2DA44E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
