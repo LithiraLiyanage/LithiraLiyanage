@@ -39,7 +39,7 @@
 <div align="center">
 
 
-## h2>🏆 GitHub Stats</h2>
+##  🏆 GitHub Stats
 
 <img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 
