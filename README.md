@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<h2>🏆 GitHub Stats</h2>
+h2>🏆 GitHub Stats</h2>
 
 <img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 
@@ -51,47 +51,28 @@
 <br/>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=github_dark" 
-    alt="GitHub Profile Summary"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=react" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=github_dark" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=github_dark" 
-    alt="Repos Per Language"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=react" />
 </p>
 
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
+    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=1F2937&hide_border=true" 
     height="170"
-    alt="GitHub Stats"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraLiyanage&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
+    src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=react&hide_border=true&background=1F2937&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
     height="170"
-    alt="Top Languages"
   />
 
 </div>
 
-<br/>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LithiraLiyanage&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" 
-    alt="GitHub Streak Stats"
-  />
-</p>
 ---
 
 ## 🐍 Contribution Snake
