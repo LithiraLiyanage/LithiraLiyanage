@@ -61,14 +61,16 @@ h2>🏆 GitHub Stats</h2>
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=1F2937&hide_border=true" 
+<img
+    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=1F2937&hide_border=true&count_private=true"
     height="170"
+    alt="Lithira's GitHub Stats"
   />
 
-  <img 
-    src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=react&hide_border=true&background=1F2937&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
+  <img
+    src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=react&hide_border=true&background=1F2937&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
     height="170"
+    alt="Lithira's GitHub Streak"
   />
 
 </div>
