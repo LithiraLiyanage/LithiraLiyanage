@@ -6,36 +6,51 @@
 
 ---
 
-## 👨🏻‍💻 About Me
+<h2 align="center">👨🏻‍💻 About Me</h2>
+
+<div align="center">
 
 <table>
   <tr>
-    <td>
+    <td align="left" width="55%">
 
-- 🎓 Information Technology Undergraduate at SLIIT  
-- 🌱 Learning MERN | Java | Python | Spring Boot  
-- 🔭 Working on University & Personal Projects  
-- 🎯 Goal: Become a Full-Stack Developer | AI Engineer  
-- 💡 Passionate about building scalable and user-friendly applications
-- 📫 How to reach me lithiraliyanage666@gmail.com  
+<ul>
+  <li>🎓 Information Technology Undergraduate at SLIIT</li>
+  <li>🌱 Learning MERN | Java | Python | Spring Boot</li>
+  <li>🔭 Working on University & Personal Projects</li>
+  <li>🎯 Goal: Become a Full-Stack Developer | AI Engineer</li>
+  <li>💡 Passionate about building scalable and user-friendly applications</li>
+  <li>📫 How to reach me <a href="mailto:lithiraliyanage666@gmail.com">lithiraliyanage666@gmail.com</a></li>
+</ul>
 
-    </td>
+</td>
 
-    <td>
-      <img src="Coding.gif" width="350" />
-    </td>
+<td align="center" width="45%">
+  <img src="Coding.gif" width="350" alt="Coding Animation" />
+</td>
   </tr>
 </table>
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,python,mongodb,mysql,git,github,docker,postman,vscode,figma,tailwind&perline=10" />
-</p>
+<hr>
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+<img 
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,python,mongodb,mysql,git,github,docker,postman,vscode,figma,tailwind&perline=10" 
+  alt="Tech Stack Icons" 
+/>
+
+</div>
+
+<br>
+
+<hr>
 
 <div align="center">
 
