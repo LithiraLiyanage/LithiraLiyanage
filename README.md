@@ -39,7 +39,6 @@
 
 <div align="center">
 
-<div align="center">
 
 ##  🏆 GitHub Stats
 
