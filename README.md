@@ -62,8 +62,8 @@
 
 <div align="center">
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=1F2937&hide_border=true&count_private=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=1F2937&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true"
     height="170"
     alt="Lithira's GitHub Stats"
   />
@@ -72,6 +72,13 @@
     src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=react&hide_border=true&background=1F2937&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
     height="170"
     alt="Lithira's GitHub Streak"
+  />
+
+  <br><br>
+
+  <img
+    src="https://img.shields.io/badge/GitHub%20Grade-A-58a6ff?style=for-the-badge&labelColor=1F2937"
+    alt="GitHub Grade A"
   />
 
 </div>
