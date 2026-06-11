@@ -100,28 +100,53 @@
 
 ---
 
-## 🐍 Contribution Snake
+<hr>
 
-![snake gif](https://github.com/LithiraLiyanage/LithiraLiyanage/blob/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center">🐍 Contribution Snake</h2>
 
----
+<div align="center">
+  <img
+    src="https://github.com/LithiraLiyanage/LithiraLiyanage/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
+</div>
 
-## 👀 Profile Views
+<br>
 
-![](https://komarev.com/ghpvc/?username=LithiraLiyanage&color=blue)
+<hr>
 
----
+<h2 align="center">👀 Profile Views</h2>
 
-## 🌐 Connect with Me
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=LithiraLiyanage&color=blue"
+    alt="Profile Views"
+  />
+</div>
 
-<p align="center">
+<br>
+
+<hr>
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/lithira-liyanage-667b99403" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:lithiraliyanage666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
-</p>
+</div>
 
+<br>
+
+<hr>
 ---
