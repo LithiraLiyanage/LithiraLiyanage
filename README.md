@@ -58,11 +58,6 @@
 
 ##  🏆 GitHub Stats
 
-<img
-    src="https://img.shields.io/badge/GitHub%20Grade-A-58a6ff?style=for-the-badge&labelColor=1F2937"
-    alt="GitHub Grade A"
-  />
-
 <img src="https://img.shields.io/badge/LEVEL-ADVANCED%20DEVELOPER-0969DA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 
 <img src="https://img.shields.io/badge/STATUS-IMPROVING%20FAST-2DA44E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
