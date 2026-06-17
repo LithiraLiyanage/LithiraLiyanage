@@ -78,7 +78,7 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=1F2937&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true"
+    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=1F2937&hide_border=true&hide_rank=true&hide=commits"
     height="170"
     alt="Lithira's GitHub Stats"
   />
@@ -88,8 +88,6 @@
     height="170"
     alt="Lithira's GitHub Streak"
   />
-
-  <br><br>
 
 </div>
 
