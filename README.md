@@ -84,6 +84,7 @@
   />
 </p>
 
+<h2 align="center">
   <img
     src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=react&hide_border=true&background=1F2937&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
     height="170"
