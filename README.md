@@ -111,9 +111,10 @@
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=LithiraLiyanage)
-
+  <a href="https://github.com/LithiraLiyanage">
+    <img src="https://komarev.com/ghpvc/?username=LithiraLiyanage&amp;label=PROFILE+VIEWS&amp;color=0e75b6&amp;style=flat-square" alt="Profile Views" />
+  </a>
+  
 </p>
 
 <br>
