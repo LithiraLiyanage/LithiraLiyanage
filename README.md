@@ -111,7 +111,7 @@
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Enabled-0e75b6?style=flat-square&logo=github" alt="Profile Views" />
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FLithiraLiyanage&label=Profile%20Views&icon=github&color=%230e75b6" alt="Profile Views" />
 </p>
 
 <br>
