@@ -110,12 +110,12 @@
 
 <h2 align="center">👀 Profile Views</h2>
 
-<div align="center">
+<p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=LithiraLiyanage&color=blue"
+    src="https://komarev.com/ghpvc/?username=LithiraLiyanage&label=Profile+Views&color=0e75b6&style=flat"
     alt="Profile Views"
   />
-</div>
+</p>
 
 <br>
 
