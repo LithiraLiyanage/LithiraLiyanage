@@ -91,8 +91,6 @@
     alt="Lithira's GitHub Streak"
   />
 
-</div>
-
 ---
 
 <hr>
