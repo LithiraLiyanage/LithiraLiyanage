@@ -90,6 +90,10 @@
     height="170"
     alt="Lithira's GitHub Streak"
   />
+  
+</div>
+
+<hr>
 
 ---
 
@@ -142,4 +146,3 @@
 <br>
 
 <hr>
----
