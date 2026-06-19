@@ -111,7 +111,7 @@
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FLithiraLiyanage&label=Profile%20Views&icon=github&color=%230e75b6" alt="Profile Views" />
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FLithiraLiyanage&label=Views&icon=github&color=%2300a6ff" alt="Profile Views" />
 </p>
 
 <br>
