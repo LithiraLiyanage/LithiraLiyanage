@@ -108,15 +108,6 @@
 
 <hr>
 
-<h2 align="center">👀 Profile Views</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-4k%2B-0e75b6?style=for-the-badge&logo=github" alt="Profile Views" />
-</p>
-
-<br>
-
-<hr>
 
 <h2 align="center">🌐 Connect with Me</h2>
 
