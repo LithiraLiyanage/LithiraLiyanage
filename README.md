@@ -111,10 +111,7 @@
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <a href="https://github.com/LithiraLiyanage">
-    <img src="https://komarev.com/ghpvc/?username=LithiraLiyanage&amp;label=PROFILE+VIEWS&amp;color=0e75b6&amp;style=flat-square" alt="Profile Views" />
-  </a>
-  
+  <img src="https://img.shields.io/badge/Profile%20Views-Enabled-0e75b6?style=flat-square&logo=github" alt="Profile Views" />
 </p>
 
 <br>
