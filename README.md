@@ -67,17 +67,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Lithira%20Liyanage&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
-</p>
-
-
-<p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=github_dark&v=10" 
     width="100%" 
   />
 </p>
-
 
 <p align="center">
   <img 
