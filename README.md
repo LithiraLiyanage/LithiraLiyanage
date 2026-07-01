@@ -73,7 +73,6 @@
     width="100%" 
   />
 </p>
-
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=tokyonight&v=10" 
