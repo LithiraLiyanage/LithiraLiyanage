@@ -68,20 +68,21 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=tokyonight&v=20" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=github_dark&v=10" 
     width="100%" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=tokyonight&v=20" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=github_dark&v=10" 
     height="180" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=tokyonight&exclude=HTML&v=20" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=github_dark&exclude=HTML&v=10" 
     height="180" 
   />
+  
 </p>
 
 <h2 align="center">
