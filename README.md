@@ -107,6 +107,14 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
+
+  <a href="mailto:lithiraliyanage666@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  
   <a href="https://www.linkedin.com/in/lithira-liyanage-667b99403" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -121,12 +129,6 @@
     />
   </a>
 
-  <a href="mailto:lithiraliyanage666@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
 </div>
 
 <br>
