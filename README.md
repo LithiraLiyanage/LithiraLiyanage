@@ -67,17 +67,21 @@
 <br/>
 
 <p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=LithiraLiyanage&show_icons=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&hide_border=false" />
-    
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraLiyanage&layout=compact&theme=transparent&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false&langs_count=8&exclude_repo=HTML" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiraLiyanage&theme=github_dark&v=10" 
+    width="100%" 
+  />
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=30363D" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=github_dark&v=10" 
+    height="180" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=github_dark&exclude=HTML&v=10" 
+    height="180" 
+  />
   
 </p>
 
