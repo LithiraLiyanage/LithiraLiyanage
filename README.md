@@ -69,23 +69,25 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=tokyonight"
     height="180"
+    alt="Lithira's GitHub Stats"
   />
+  
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=github_dark&exclude=HTML"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=tokyonight&exclude=HTML"
     height="180"
+    alt="Lithira's Top Languages"
   />
 </p>
 
-<h2 align="center">
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=react&hide_border=true&background=1F2937&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
+    src="https://streak-stats.demolab.com?user=LithiraLiyanage&theme=react&hide_border=true&background=1F2937&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
     height="170"
     alt="Lithira's GitHub Streak"
   />
-  
-</div>
+</p>
 
 ---
 
