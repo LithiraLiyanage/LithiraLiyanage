@@ -1,7 +1,7 @@
 <h2 align="center">💻 Welcome to My GitHub Profile!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=26&center=true&vCenter=true&width=650&lines=Hi+I'm+Lithira+Liyanage;Information+Technology+Student;Web+Developer;AI+Engineering;Python+%7C+Spring+Boot+MERN+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=26&center=true&vCenter=true&width=650&lines=Hi+I'm+Lithira+Liyanage;Information+Technology+Student;Web+Developer;AI+Engineering;Python+%7C+Spring+Boot+%7C+MERN+Learner" />
 </p>
 
 ---
