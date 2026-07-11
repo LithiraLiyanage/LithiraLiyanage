@@ -16,10 +16,15 @@
 
 <ul>
   <li>🎓 Information Technology Undergraduate at SLIIT</li>
+  
   <li>🌱 Learning Python | MERN | Spring Boot</li>
+  
   <li>🔭 Working on University & Personal Projects</li>
+  
   <li>🎯 Goal: Become a AI Engineer | AI/ML Enthusiast</li>
+  
   <li>💡 Passionate about building scalable and user-friendly applications</li>
+  
   <li>📫 How to reach me <a href="mailto:lithiraliyanage666@gmail.com">lithiraliyanage666@gmail.com</a></li>
 </ul>
 
