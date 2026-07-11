@@ -1,7 +1,7 @@
 <h2 align="center">💻 Welcome to My GitHub Profile!</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=26&center=true&vCenter=true&width=650&lines=Hi+I'm+Lithira+Liyanage;Information+Technology+Student;Web+Developer;AI+Engineering;Java+%7C+Spring+Boot+Python+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&size=26&center=true&vCenter=true&width=650&lines=Hi+I'm+Lithira+Liyanage;Information+Technology+Student;Web+Developer;AI+Engineering;Java+%7C+Python+Spring+Boot+Learner" />
 </p>
 
 ---
@@ -16,9 +16,9 @@
 
 <ul>
   <li>🎓 Information Technology Undergraduate at SLIIT</li>
-  <li>🌱 Learning MERN | Java | Python | Spring Boot</li>
+  <li>🌱 Learning Python | MERN | Spring Boot</li>
   <li>🔭 Working on University & Personal Projects</li>
-  <li>🎯 Goal: Become a Full-Stack Developer | AI Engineer</li>
+  <li>🎯 Goal: Become a AI Engineer | AI/ML Enthusiast</li>
   <li>💡 Passionate about building scalable and user-friendly applications</li>
   <li>📫 How to reach me <a href="mailto:lithiraliyanage666@gmail.com">lithiraliyanage666@gmail.com</a></li>
 </ul>
