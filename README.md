@@ -74,12 +74,14 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LithiraLiyanage&theme=github_dark"
+    src="profile-summary-card-output/github_dark/3-stats.svg"
     height="180"
+    alt="Lithira Liyanage GitHub statistics"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiraLiyanage&theme=github_dark&exclude=HTML"
+    src="profile-summary-card-output/github_dark/1-repos-per-language.svg"
     height="180"
+    alt="Lithira Liyanage repositories per language"
   />
 </p>
 
