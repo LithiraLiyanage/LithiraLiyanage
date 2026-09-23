@@ -17,7 +17,7 @@
 <ul>
   <li>🎓 Information Technology Undergraduate at SLIIT</li>
   
-  <li>🌱 Learning Python | MERN | Spring Boot</li>
+  <li>🌱 Learning Python | Laravel | Spring Boot</li>
   
   <li>🔭 Working on University & Personal Projects</li>
   
